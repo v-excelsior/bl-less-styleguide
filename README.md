@@ -1,4 +1,4 @@
-# Sass Styleguide
+# Sass Style Guide
 
 ## Навигация
 
