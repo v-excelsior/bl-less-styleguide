@@ -76,9 +76,7 @@
 * Меньше вложенностей, низкая специфичность правил.
 * Это помогает создавать масштабируемые таблицы стилей
 
-
-* [OOCSS wiki](https://github.com/stubbornella/oocss/wiki)
-* [Original BEM Docs](https://ru.bem.info/methodology/css/)
+[OOCSS wiki](https://github.com/stubbornella/oocss/wiki) | [Original BEM Docs](https://ru.bem.info/methodology/css/)
 
 
 Мы рекомендуем вариант БЭМ, в котором используются PascalCased "блоки". Подчеркивания и тире по-прежнему используются для модификаторов и элементов.
